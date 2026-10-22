@@ -1,0 +1,10 @@
+langchain>=1.4,<2
+langchain-core>=1.6,<2
+langchain-groq>=1.1
+sqlglot>=30,<31
+python-dotenv>=1.0
+pytest>=8
+
+# Optional: install the one for the provider you use
+# langchain-google-genai>=4.4
+# langchain-openai>=1.7
